@@ -25,3 +25,23 @@
 - **Google Fonts** – Elegant typography (`Inter` font)  
 
 ---
+
+## 📱 Responsive Design
+
+The layout automatically adapts to various screen sizes using CSS media queries:
+- Mobile-first design for better accessibility  
+- Flexible grids and fluid image containers  
+- Collapsible navigation menu for smaller screens  
+
+---
+
+## 💡 Future Enhancements
+
+- Add **JavaScript interactivity** for the hamburger menu.  
+- Implement **dark mode toggle** for user preference.  
+- Integrate **form validation** and backend for newsletter signup.  
+
+---
+
+
+
